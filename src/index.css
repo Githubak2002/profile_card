@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- intern page css --- */
+
+.flexCenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a{
+  color: rgb(0, 170, 255);
+  font-weight: 600;
+}

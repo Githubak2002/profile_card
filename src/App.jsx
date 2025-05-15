@@ -1,6 +1,6 @@
 import React from 'react'
 import ProfileCard from './components/ProfileCard'
-import Info from './components/info'
+import Info from './components/Info'
 
 const App = () => {
   return (
